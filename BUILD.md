@@ -12,3 +12,7 @@
 
 [为什么google bazel构建工具流行不起来](http://www.cnblogs.com/Jack47/p/why-not-google-bazel.html)
 
+
+#### 构建命令
+
+```bazel build -c opt tensorflow/libtensorflow.so```
