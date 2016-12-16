@@ -16,3 +16,8 @@
 #### 构建命令
 
 ```bazel build -c opt tensorflow/libtensorflow.so```
+
+#### 构建过程
+
+
+#### 构建原理
