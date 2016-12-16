@@ -19,5 +19,7 @@
 
 #### 构建过程
 
+```bazel build -c opt //tensorflow/tools/pip_package:build_pip_package```
+
 
 #### 构建原理
