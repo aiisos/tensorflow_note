@@ -10,6 +10,8 @@
 
 [如何学习TensorFlow源码](http://bingotree.cn/?p=862)
 
+[Deep Learning学习笔记](http://www.cnblogs.com/tornadomeet/archive/2012/06/24/2560261.html)
+
 [官方指南：如何通过玩TensorFlow来理解神经网络-playground](http://www.jiqizhixin.com/article/1348)
 
 [playground](http://playground.tensorflow.org/)
